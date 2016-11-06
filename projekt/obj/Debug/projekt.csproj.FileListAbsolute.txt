@@ -1,0 +1,31 @@
+c:\users\dominika\documents\visual studio 2015\Projects\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Dominika\Desktop\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Dominika\Desktop\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Dominika\Desktop\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Dominika\Desktop\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Dominika\Desktop\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\projekt wydawnictwo\projekt\bin\Debug\projekt.exe.config
+C:\Users\Dominika\Desktop\projekt wydawnictwo\projekt\obj\Debug\projekt.exe
+C:\Users\Dominika\Desktop\projekt wydawnictwo\projekt\obj\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\projekt wydawnictwo\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Dominika\Desktop\projekt wydawnictwo\projekt\bin\Debug\projekt.exe
+C:\Users\Dominika\Desktop\projekt wydawnictwo\projekt\bin\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.exe.config
+C:\Users\Dominika\Desktop\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.exe
+C:\Users\Dominika\Desktop\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.exe
+C:\Users\Dominika\Desktop\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Dominika\Desktop\informatyka\po\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.exe.config
+C:\Users\Dominika\Desktop\informatyka\po\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.exe
+C:\Users\Dominika\Desktop\informatyka\po\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\informatyka\po\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.exe
+C:\Users\Dominika\Desktop\informatyka\po\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.pdb
+C:\Users\Dominika\Desktop\informatyka\po\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Dominiczka\Desktop\projekt-wydawnictwo\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.exe.config
+C:\Users\Dominiczka\Desktop\projekt-wydawnictwo\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.exe
+C:\Users\Dominiczka\Desktop\projekt-wydawnictwo\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.pdb
+C:\Users\Dominiczka\Desktop\projekt-wydawnictwo\projekt-wydawnictwo\projekt wydawnictwo\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Dominiczka\Desktop\projekt-wydawnictwo\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.exe
+C:\Users\Dominiczka\Desktop\projekt-wydawnictwo\projekt-wydawnictwo\projekt wydawnictwo\projekt\bin\Debug\projekt.pdb
